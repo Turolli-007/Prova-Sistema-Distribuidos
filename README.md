@@ -1,6 +1,6 @@
 # Prova 1 de Sistemas Distribuidos
 Nome: Otavio Henrique Turolli 
-RA
+RA: RA: a154786cd5b10587ea2d
 
 Problema da empresa
 A empresa precisa informar o estoque do produto da empresa fazendo a conta de saldo inicial - o saldo que vendeu
