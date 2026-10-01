@@ -9,7 +9,7 @@ A empresa precisa informar o estoque do produto da empresa fazendo a conta de sa
 servidor.py: recebe a chamada RPC e executa o cálculo.
 cliente.py: solicita o cálculo ao servidor e mostra a resposta.
 Resultado do teste
-PS C:\Users\aluno\Desktop> & 'C:\Program Files\Python313\python.exe' 'c:\Users\aluno.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\libs\debugpy\launcher' '55414' '--' 'c:\Users\aluno\Desktop\cliente.py' Unidades restantes: 11
+Unidades restantes: 11
 
 ## Explicação
 Em qual programa o cálculo foi executado? Servidor
